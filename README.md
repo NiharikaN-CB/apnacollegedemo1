@@ -5,4 +5,4 @@ This is my github project.
 <br>
 Author-Niharika Niranjan
 <br>
-Have fun macchi!
+Have fun!
